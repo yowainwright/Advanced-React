@@ -30,7 +30,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.5.2",
     "react-adopt": "^0.6.0",
-    "react-apollo": "^2.2.1",
+    "react-apollo": "^2.5.8",
     "react-dom": "^16.5.2",
     "react-stripe-checkout": "^2.6.3",
     "react-transition-group": "^2.5.0",
