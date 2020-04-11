@@ -12,3 +12,5 @@ patch:
         patched: '2020-04-09T07:01:21.124Z'
     - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > lodash:
         patched: '2020-04-09T07:01:21.124Z'
+    - babel-plugin-styled-components > @babel/helper-annotate-as-pure > @babel/types > lodash:
+        patched: '2020-04-11T06:55:59.729Z'
