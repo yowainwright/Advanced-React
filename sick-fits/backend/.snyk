@@ -10,3 +10,67 @@ patch:
         patched: '2020-04-11T06:55:56.022Z'
     - graphql-cli > tmp-graphql-config-extension-openapi > graphql-config > graphql-import > lodash:
         patched: '2020-04-11T06:55:56.022Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-core > @babel/generator > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-core > graphql-config > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-core > @babel/generator > @babel/types > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-flow > apollo-codegen-core > @babel/generator > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-flow-legacy > apollo-codegen-core > @babel/generator > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-scala > apollo-codegen-core > @babel/generator > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-swift > apollo-codegen-core > @babel/generator > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-typescript > apollo-codegen-core > @babel/generator > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-typescript-legacy > apollo-codegen-core > @babel/generator > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-core > graphql-config > graphql-import > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-flow > apollo-codegen-core > graphql-config > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-flow-legacy > apollo-codegen-core > graphql-config > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-scala > apollo-codegen-core > graphql-config > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-swift > apollo-codegen-core > graphql-config > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-typescript > apollo-codegen-core > graphql-config > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-typescript-legacy > apollo-codegen-core > graphql-config > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-flow > apollo-codegen-core > @babel/generator > @babel/types > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-flow-legacy > apollo-codegen-core > @babel/generator > @babel/types > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-scala > apollo-codegen-core > @babel/generator > @babel/types > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-swift > apollo-codegen-core > @babel/generator > @babel/types > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-typescript > apollo-codegen-core > @babel/generator > @babel/types > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-typescript-legacy > apollo-codegen-core > @babel/generator > @babel/types > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-flow > apollo-codegen-core > graphql-config > graphql-import > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-flow-legacy > apollo-codegen-core > graphql-config > graphql-import > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-scala > apollo-codegen-core > graphql-config > graphql-import > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-swift > apollo-codegen-core > graphql-config > graphql-import > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-typescript > apollo-codegen-core > graphql-config > graphql-import > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
+    - graphql-cli > apollo-codegen > apollo-codegen-typescript-legacy > apollo-codegen-core > graphql-config > graphql-import > lodash:
+        patched: '2020-04-11T11:11:41.010Z'
