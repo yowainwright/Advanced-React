@@ -10,7 +10,7 @@
   "dependencies": {
     "babel-preset-env": "^1.7.0",
     "bcryptjs": "2.4.3",
-    "cookie-parser": "^1.4.3",
+    "cookie-parser": "^1.4.5",
     "dotenv": "6.2.0",
     "graphql": "^0.13.2",
     "graphql-cli": "^2.16.7",
