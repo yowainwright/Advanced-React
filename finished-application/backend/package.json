@@ -5,7 +5,9 @@
     "start": "nodemon -e js,graphql -x node src/index.js",
     "dev": "nodemon -e js,graphql -x node --inspect src/index.js",
     "test": "jest",
-    "deploy": "prisma deploy --env-file variables.env"
+    "deploy": "prisma deploy --env-file variables.env",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "babel-preset-env": "^1.7.0",
@@ -13,7 +15,7 @@
     "cookie-parser": "^1.4.5",
     "dotenv": "6.2.0",
     "graphql": "^0.13.2",
-    "graphql-cli": "^2.17.0",
+    "graphql-cli": "^3.0.10",
     "graphql-yoga": "1.18.3",
     "jsonwebtoken": "8.5.1",
     "nodemailer": "^4.7.0",
@@ -21,7 +23,8 @@
     "npm-run-all": "^4.1.5",
     "prisma": "1.17.1",
     "prisma-binding": "2.3.16",
-    "stripe": "^6.36.0"
+    "stripe": "^6.36.0",
+    "snyk": "^1.305.1"
   },
   "license": "MIT",
   "repository": {
@@ -31,5 +34,6 @@
     "presets": [
       "env"
     ]
-  }
+  },
+  "snyk": true
 }
